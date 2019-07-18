@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*copy and transform '     ' to ' ' */
+/*copy and transform '       ' to ' ' */
 
 int main(){
     int c;
