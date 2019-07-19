@@ -24,8 +24,12 @@
       "-std=c++17",
       "-Wall"
     ],
+<<<<<<< HEAD
     "clang.completion.enable": true,
     "files.associations": {
         "helloworld.C": "cpp"
     }
+=======
+    "clang.completion.enable": true 
+>>>>>>> a556e857d70a528deaaf839843f305e592077d81
 }

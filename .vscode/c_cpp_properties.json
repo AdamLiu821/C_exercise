@@ -3,7 +3,11 @@
       {
         "name": "MinGW",
         "intelliSenseMode": "clang-x64",
+<<<<<<< HEAD
         "compilerPath": "C:/Program Files/LLVM/bin/gcc.exe",
+=======
+        "compilerPath": "C:/LLVM/bin/gcc.exe",
+>>>>>>> a556e857d70a528deaaf839843f305e592077d81
         "includePath": [
           "${workspaceFolder}"
         ],
