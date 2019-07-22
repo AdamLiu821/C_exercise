@@ -24,7 +24,7 @@ int main() {
             line[count] = '\0';
             printf("%s\n", line);
             count = 0;
-            for (int i = 0; i <= 1000; i++) {
+            for (int i = 0; i <= MAXLINE; i++) {
                 line[i] = '\0';
             }
         }
