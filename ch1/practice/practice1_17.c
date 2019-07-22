@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 #define MAXLINE 1000
-#define LOMGLINE 10
+#define LOMGLINE 80
 
 int getline(char line[], int maxline);
 
