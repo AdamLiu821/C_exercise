@@ -1,0 +1,1 @@
+ for(pos = 1; (c = getchar()) 
