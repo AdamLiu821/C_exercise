@@ -1,0 +1,2 @@
+
+    srand(rand());
