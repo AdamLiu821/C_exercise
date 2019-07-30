@@ -7,6 +7,6 @@ unsigned getbit(unsigned x, int p, int n){
 }
 
 int main(){
-    unsigned x = 15;
-    printf("%x", getbit(x,1,2));
+    unsigned x = 0b1110;
+    printf("%x", getbit(x,2,3));
 }
