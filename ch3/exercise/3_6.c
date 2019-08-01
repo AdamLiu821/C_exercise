@@ -18,6 +18,6 @@ int binsearch(int x, int v[], int n){
 
 
 int main(){
-    int x[12] = {1, 1, 10, 20, 26, 38, 47, 49, 55, 56, 63, 72};
+    int x[] = {1, 1, 10, 20, 26, 38, 47, 49, 55, 56, 63, 72};
     printf("%d", binsearch(72, x, 12));
 }
